@@ -1,7 +1,8 @@
 # Hora De Codar
-Este repositório é destinado aos exercícios na linguagem de portugol, para a compreensão da lógica de programação básica.
+### Este repositório é destinado aos exercícios na linguagem de portugol, para a compreensão da lógica de programação básica.
 
-A seguir o enunciado das questões:
+
+### A seguir o enunciado das questões:
 
 Atividade 1:  Escreva um programa que crie uma variável chamada "nome_do_carro" e atribua-a um valor "Fusca". Exiba-a ao usuário.
 
